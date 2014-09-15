@@ -1,7 +1,6 @@
 我的日常使用之Markdown 
 
-
-
+![](https://raw.githubusercontent.com/owen-carter/mybook/master/bell%20tower%20partner/picture.jpg)
 
 我的日常使用之Markdown
 
